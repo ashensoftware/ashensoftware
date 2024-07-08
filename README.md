@@ -8,8 +8,8 @@
 
 <div align="center">
   <h2>GitHub Profile Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashensoftware&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashensoftware&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
 
