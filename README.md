@@ -1,16 +1,17 @@
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=ashensoftware&color=blueviolet" alt="Profile Views">
 <h1 align="center">Hi, We're Ashen Software ❤️</h1>
 <h4 align="center">A Colombian Startup focused on developing software 💻.</h4>
-<img src="https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif" alt="gif" style="max-width: 400px; margin-top: 20px;">
+<img src="https://github.com/ashensoftware/ashensoftware/assets/173645339/2ff5bd31-328c-4b0a-ac29-4ce26445f81f" alt="gif" style="max-width: 400px; margin-top: 20px;">
 </div>
 
 
-## GitHub Profile Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+<div align="center">
+  <h2>GitHub Profile Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
 
 ## Lines
 
